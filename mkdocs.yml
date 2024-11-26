@@ -1,0 +1,6 @@
+site_name: Hellas Direct
+site_url: https://hellas-direct.github.io
+theme:
+  name: material
+  palette:
+    scheme: slate
