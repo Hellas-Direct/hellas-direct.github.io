@@ -1,5 +1,5 @@
 site_name: Hellas Direct
-site_url: https://hellas-direct.github.io
+site_url: https://hellasdirect.github.io
 docs_dir: mkdocs
 site_dir: docs
 plugins:
