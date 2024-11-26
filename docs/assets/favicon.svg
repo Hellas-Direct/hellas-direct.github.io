@@ -1,0 +1,11 @@
+<svg id="HDLogo" width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    @media (prefers-color-scheme: dark) {
+      .boomerang{fill:#fff;}
+    }
+    @media (prefers-color-scheme: light) {
+      .boomerang{fill:#000;}
+    } 
+</style>
+<path class="boomerang" d="M127.793 370.935C100.626 406.888 131.207 453.99 181.728 453.99C208.314 453.99 394.352 333.771 394.352 256.008C394.352 164.077 201.651 58.0103 181.728 58.0103C131.207 58.0103 100.626 105.112 127.793 141.065L192.7 226.957C206.093 244.677 206.093 267.34 192.7 285.059L127.809 370.935H127.793Z"/>
+</svg>
