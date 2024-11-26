@@ -5,6 +5,8 @@ site_dir: docs
 plugins:
   - search
 theme:
+  logo: assets/logo.png
+  favicon: assets/favicon.svg
   name: material
   locale: en
   language: en
