@@ -1,6 +1,9 @@
 site_name: Hellas Direct
 site_url: https://hellas-direct.github.io
+docs_dir: mkdocs
+site_dir: docs
 theme:
   name: material
+  locale: en
   palette:
     scheme: slate
