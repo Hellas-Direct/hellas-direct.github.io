@@ -2,8 +2,12 @@ site_name: Hellas Direct
 site_url: https://hellas-direct.github.io
 docs_dir: mkdocs
 site_dir: docs
+plugins:
+  - search
 theme:
   name: material
   locale: en
+  language: en
   palette:
+    primary: white
     scheme: slate
